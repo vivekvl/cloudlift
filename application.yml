@@ -1,0 +1,3 @@
+spring:
+  profiles: development
+message2: config-server-test-message-2
